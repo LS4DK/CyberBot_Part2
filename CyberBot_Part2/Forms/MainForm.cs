@@ -55,7 +55,7 @@ namespace CyberBot_Part2.Forms
                 Height = 22,
                 BackColor = Color.FromArgb(10, 10, 20)
             };
-            Label helpLabel = new Label 
+            Label helpLabel = new Label //
             {
                 Text = "  Type 'exit' to quit  |  'give me a tip' for random advice  |  'what do you remember about me' to check memory",
                 Dock = DockStyle.Fill,
